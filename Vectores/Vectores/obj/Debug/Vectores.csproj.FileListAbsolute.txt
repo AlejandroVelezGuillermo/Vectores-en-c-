@@ -1,0 +1,11 @@
+C:\Users\soned\Videos\programas VS\Vectores\Vectores\bin\Debug\Vectores.exe.config
+C:\Users\soned\Videos\programas VS\Vectores\Vectores\bin\Debug\Vectores.exe
+C:\Users\soned\Videos\programas VS\Vectores\Vectores\bin\Debug\Vectores.pdb
+C:\Users\soned\Videos\programas VS\Vectores\Vectores\obj\Debug\Vectores.csproj.AssemblyReference.cache
+C:\Users\soned\Videos\programas VS\Vectores\Vectores\obj\Debug\Vectores.csproj.SuggestedBindingRedirects.cache
+C:\Users\soned\Videos\programas VS\Vectores\Vectores\obj\Debug\Vectores.Form1.resources
+C:\Users\soned\Videos\programas VS\Vectores\Vectores\obj\Debug\Vectores.Properties.Resources.resources
+C:\Users\soned\Videos\programas VS\Vectores\Vectores\obj\Debug\Vectores.csproj.GenerateResource.cache
+C:\Users\soned\Videos\programas VS\Vectores\Vectores\obj\Debug\Vectores.csproj.CoreCompileInputs.cache
+C:\Users\soned\Videos\programas VS\Vectores\Vectores\obj\Debug\Vectores.exe
+C:\Users\soned\Videos\programas VS\Vectores\Vectores\obj\Debug\Vectores.pdb
